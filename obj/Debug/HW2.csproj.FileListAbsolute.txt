@@ -1,0 +1,10 @@
+F:\000IMU\大三\Csharp\HW\HW2\bin\Debug\HW2.exe.config
+F:\000IMU\大三\Csharp\HW\HW2\bin\Debug\HW2.exe
+F:\000IMU\大三\Csharp\HW\HW2\bin\Debug\HW2.pdb
+F:\000IMU\大三\Csharp\HW\HW2\obj\Debug\HW2.csprojAssemblyReference.cache
+F:\000IMU\大三\Csharp\HW\HW2\obj\Debug\HW2.Form1.resources
+F:\000IMU\大三\Csharp\HW\HW2\obj\Debug\HW2.Properties.Resources.resources
+F:\000IMU\大三\Csharp\HW\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+F:\000IMU\大三\Csharp\HW\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+F:\000IMU\大三\Csharp\HW\HW2\obj\Debug\HW2.exe
+F:\000IMU\大三\Csharp\HW\HW2\obj\Debug\HW2.pdb
